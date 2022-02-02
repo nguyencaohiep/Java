@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d3a844b-b302-425b-9900-62c5b9db7291" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../J05005/J05005.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J05007/J05007.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J05011/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J05011/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J05018/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J05018/src/Pupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J05020/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J05020/src/Pupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J05022/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../J05022/src/Pupil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloJava/HelloJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestInteliji/TestInteliji.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../regex/regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../regex/src/ValidateName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../regex/src/ValidateNumberOfProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../regex/src/ValidatePhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test_regex/.idea/test_regex.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J01003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J01021.java" beforeDir="false" afterPath="$PROJECT_DIR$/../J01021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../J02021.java" beforeDir="false" afterPath="$PROJECT_DIR$/../J02021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2_B1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2_B2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2_B3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2_B4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2_B5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab2_B7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/sales_management/QuanLyBanHang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/sales_management/src/sales_management/Bill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/sales_management/src/sales_management/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/sales_management/src/sales_management/Inform.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/sales_management/src/sales_management/InputCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/sales_management/src/sales_management/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/sales_management/src/sales_management/Product.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1y7Si7E3c6kRSicjiIerfkyDJQC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d3a844b-b302-425b-9900-62c5b9db7291" name="Changes" comment="" />
+      <created>1631601261020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631601261020</updated>
+    </task>
+    <servers />
+  </component>
+</project>

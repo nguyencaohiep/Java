@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lop-Polygon.iml" filepath="$PROJECT_DIR$/Lop-Polygon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuanLyBaiTapLon.iml" filepath="$PROJECT_DIR$/QuanLyBaiTapLon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testIntel.iml" filepath="$PROJECT_DIR$/testIntel.iml" />
+    </modules>
+  </component>
+</project>

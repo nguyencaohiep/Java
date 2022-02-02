@@ -1,0 +1,455 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch thongke",
+            "request": "launch",
+            "mainClass": "ThongKeTuKhacNhauTrongVanBan.thongke",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "ThongKeTuKhacNhauTrongVanBan.Main",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J05004",
+            "request": "launch",
+            "mainClass": "J05004.J05004",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J05003",
+            "request": "launch",
+            "mainClass": "J05003.J05003",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04009",
+            "request": "launch",
+            "mainClass": "J04009.J04009",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04010",
+            "request": "launch",
+            "mainClass": "J04010.J04010",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04008",
+            "request": "launch",
+            "mainClass": "J04008.J04008",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02029",
+            "request": "launch",
+            "mainClass": "J02029",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02032",
+            "request": "launch",
+            "mainClass": "J02032",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02013",
+            "request": "launch",
+            "mainClass": "J02013",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02031",
+            "request": "launch",
+            "mainClass": "J02031",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04001",
+            "request": "launch",
+            "mainClass": "J04001.J04001",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04002",
+            "request": "launch",
+            "mainClass": "J04002.J04002",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04004",
+            "request": "launch",
+            "mainClass": "J04004.J04004",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04003",
+            "request": "launch",
+            "mainClass": "J04003.J04003",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04003",
+            "request": "launch",
+            "mainClass": "J04003",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J05006",
+            "request": "launch",
+            "mainClass": "J05006",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03012",
+            "request": "launch",
+            "mainClass": "J03012",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04006",
+            "request": "launch",
+            "mainClass": "J04006",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04005",
+            "request": "launch",
+            "mainClass": "J04005",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01001",
+            "request": "launch",
+            "mainClass": "J01001",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01002",
+            "request": "launch",
+            "mainClass": "J01002",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01003",
+            "request": "launch",
+            "mainClass": "J01003",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01004",
+            "request": "launch",
+            "mainClass": "J01004",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01005",
+            "request": "launch",
+            "mainClass": "J01005",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01006",
+            "request": "launch",
+            "mainClass": "J01006",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01008",
+            "request": "launch",
+            "mainClass": "J01008",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01011",
+            "request": "launch",
+            "mainClass": "J01011",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01012",
+            "request": "launch",
+            "mainClass": "J01012",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01013",
+            "request": "launch",
+            "mainClass": "J01013",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01014",
+            "request": "launch",
+            "mainClass": "J01014",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J01021",
+            "request": "launch",
+            "mainClass": "J01021",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02004",
+            "request": "launch",
+            "mainClass": "J02004",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02007",
+            "request": "launch",
+            "mainClass": "J02007",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02008",
+            "request": "launch",
+            "mainClass": "J02008",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02010",
+            "request": "launch",
+            "mainClass": "J02010",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02011",
+            "request": "launch",
+            "mainClass": "J02011",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02012",
+            "request": "launch",
+            "mainClass": "J02012",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02014",
+            "request": "launch",
+            "mainClass": "J02014",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02016",
+            "request": "launch",
+            "mainClass": "J02016",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02020",
+            "request": "launch",
+            "mainClass": "J02020",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J02021",
+            "request": "launch",
+            "mainClass": "J02021",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03004",
+            "request": "launch",
+            "mainClass": "J03004",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03005",
+            "request": "launch",
+            "mainClass": "J03005",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03006",
+            "request": "launch",
+            "mainClass": "J03006",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03007",
+            "request": "launch",
+            "mainClass": "J03007",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03008",
+            "request": "launch",
+            "mainClass": "J03008",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03009",
+            "request": "launch",
+            "mainClass": "J03009",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03010",
+            "request": "launch",
+            "mainClass": "J03010",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03011",
+            "request": "launch",
+            "mainClass": "J03011",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03013",
+            "request": "launch",
+            "mainClass": "J03013",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03014",
+            "request": "launch",
+            "mainClass": "J03014",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03015",
+            "request": "launch",
+            "mainClass": "J03015",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03016",
+            "request": "launch",
+            "mainClass": "J03016",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03018",
+            "request": "launch",
+            "mainClass": "J03018",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03025",
+            "request": "launch",
+            "mainClass": "J03025",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03026",
+            "request": "launch",
+            "mainClass": "J03026",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J03027",
+            "request": "launch",
+            "mainClass": "J03027",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J04007",
+            "request": "launch",
+            "mainClass": "J04007",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch J08015",
+            "request": "launch",
+            "mainClass": "J08015",
+            "projectName": "CodePtit_9f0c7dbe"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "CodePtit_9f0c7dbe"
+        }
+    ]
+}
